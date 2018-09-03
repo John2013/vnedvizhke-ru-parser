@@ -3,3 +3,4 @@ venv
 .idea
 parser.spec
 build
+__pycache__
